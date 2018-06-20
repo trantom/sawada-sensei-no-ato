@@ -7,10 +7,14 @@ linkreference: student-j2-meeting-1
 
 ### Event details:
 First meeting of J2. We will have a small potluck so please bring snacks!
+
 As for the topics, we should largely do a review of the chapters covered in class and then cover some new material so please review the items below in preparation if you find time.
+
 New material:
 Genki 
+
 Lesson 6 Vocabulary page 148
+
 Lesson 6 Grammar Point 1 (Te-form) page 150
 
 ### Thoughts:
