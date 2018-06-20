@@ -2,7 +2,7 @@
 layout: post
 title: "First J2 Meeting"
 date: 2018-06-14
-linkreference: 2018-06-14-student-j2-meeting-1.md
+linkreference: student-j2-meeting-1
 ---
 
 ### Event details:
