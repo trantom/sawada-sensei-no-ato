@@ -6,6 +6,6 @@ title: Sawada-sensei no Ato Blog
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ site.baseurl }}/_posts/{{ post.linkreference }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ site.baseurl }}/{{ page.date | date: "%Y/%m/%d" }}/{{ page.linkreference }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
