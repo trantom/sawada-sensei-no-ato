@@ -28,5 +28,35 @@ Workbook p. 54
 
 videos 7A to 7C will cover the -te mo ii desuka form
 
-### Thoughts:
-TBD
+### Class Minutes and Thoughts:
+
+Thank you everyone for the おいしいたべもの！
+
+
+Class activities:
+
+Quiz p.148 nouns
+
+Vocabulary Review p.148-149
+
+Grammar point 2 review -てください p.151
+
+[Lesson 6 Battle Hymn Song p. 156 B](https://www.youtube.com/watch?v=-s0ZRSpZMWI)
+
+P. 156 C. Make polite requests.
+
+P.156 D. What are they saying in the following situations?
+
+[Break video on Hinamatsuri Dolls (Begin Japanology 5 minutes)](https://www.youtube.com/watch?v=3_MsVRWVuf4)
+
+Kanji: 東　、北　、　南　、 西
+
+ひがし　、　きた　、みなみ　、にし
+
+east, north, south, west
+
+HW:
+
+Genki Workbook pp.55-57
+
+Review [Lesson 6 Battle Hymn Song p. 156 B](https://www.youtube.com/watch?v=-s0ZRSpZMWI)
