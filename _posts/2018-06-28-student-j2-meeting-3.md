@@ -12,7 +12,9 @@ DeLaraさん will prepare tacos. Please post your tentative food items so we may
 We did not get to go over the newer grammar points last session, but reinforced the first two as well as practiced more conjugation.
 
 Prepare for:
+
 -na and -u verb dictionary form quiz p.148-149
+
 Lesson 6 Grammar points 3 4 and 5
 
 
