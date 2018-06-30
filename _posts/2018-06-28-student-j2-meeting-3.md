@@ -25,4 +25,34 @@ Review [Lesson 6 Battle Hymn Song p. 156 B](https://www.youtube.com/watch?v=-s0Z
 
 ### Class Minutes and Thoughts:
 
-TBD
+It was a great outside class session！  Thank you DeLaraさん and your family for hosting and the tacos!
+
+
+Genki 2nd Ed. 
+
+Class activities:
+
+-na adj and -u verb dictionary form quiz p.148-149
+
+Vocabulary Review p.148-149
+
+Lesson 6 Grammar points 3, 4, and 5 pp. 152-153
+
+(～てもいいです、～てはいけません、Describing Two Activities)
+
+P.158 II. A., B., C.
+
+P.159 II. A., B., C.
+
+HW:
+
+Genki Workbook pp.58-59 (Check answers [here.](https://trantom.github.io/sawada-sensei-no-ato/assets/files/genki-workbook-p58-59-answers.pdf)
+
+Prepare for:
+
+-る and Irregular verb dictionary form and adverbs and other expressions quiz p.149 (the remaining verbs)
+
+Lesson 6 Grammar points 5, 6, and 7
+
+For those still having issues with -て form conjugation it does help to listen to Lesson 6 Battle Hymn Song on p. 156; particularly the second part.
+[Lesson 6 Battle Hymn Song p. 156 B](https://www.youtube.com/watch?v=-s0ZRSpZMWI)
