@@ -33,3 +33,23 @@ For those still having issues with -て form conjugation it does help to listen 
 ### Class Minutes and Thoughts:
 
 TBD
+
+Slower class today and more kanji practice so we can wait for some key class members who could not make it.
+
+We practiced Kanji 口 - 先 (48 to 53)
+
+Covered Grammar point 5 of Lesson 6
+
+p.159 IV A. and p. 160 IV C.
+
+Prepare for:
+
+-る and Irregular verb dictionary form and adverbs and other expressions quiz p.149 (the remaining verbs)
+
+Lesson 6 Grammar points 5, 6, and 7
+
+HW:
+
+Workbook pp. 58-59
+
+[Answers here](https://trantom.github.io/sawada-sensei-no-ato/downloads/)
