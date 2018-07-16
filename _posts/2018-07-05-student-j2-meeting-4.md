@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Fourth J2 Meeting"
 date: 2018-07-05
@@ -31,8 +31,6 @@ For those still having issues with -て form conjugation it does help to listen 
 [Lesson 6 Battle Hymn Song p. 156 B](https://www.youtube.com/watch?v=-s0ZRSpZMWI)
 
 ### Class Minutes and Thoughts:
-
-TBD
 
 Slower class today and more kanji practice so we can wait for some key class members who could not make it.
 
