@@ -52,5 +52,20 @@ practice kanji 分 (52) 国 (58)
 
 ### Class Minutes and Thoughts:
 
-TBD
+We had 茶そば　with avocado and cucumber and お好み焼き　this time made by Bethanyさん!  美味しかったですよ！
 
+We covered:
+
+Genki Lesson 7 Grammar point 1 -ている form for continuous states and states as a result of a change
+
+Kanji Quiz 東 to 左
+
+Vocabulary of Lesson 7
+
+Nuances of 知る　vs 分かる
+
+HW:
+
+Workbook pp. 65-66
+
+[Answers here](https://trantom.github.io/sawada-sensei-no-ato/downloads/)
