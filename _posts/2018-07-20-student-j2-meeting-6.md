@@ -66,6 +66,12 @@ Nuances of 知る　vs 分かる
 
 HW:
 
-Workbook pp. 65-66
+Workbook p. 64
+
+Workbook pp. 65-66　(you can turn in next week)
+
+Study grammar points 1 and 2 of lesson 7
+
+Quiz will be on p.168 vocabulary
 
 [Answers here](https://trantom.github.io/sawada-sensei-no-ato/downloads/)
