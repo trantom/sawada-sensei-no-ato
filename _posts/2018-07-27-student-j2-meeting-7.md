@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Seventh J2 Meeting"
 date: 2018-07-27
