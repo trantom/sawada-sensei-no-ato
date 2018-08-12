@@ -2,7 +2,7 @@
 layout: post
 title: "Tenth J2 Meeting"
 date: 2018-08-17
-linkreference: student-j2-meeting-17
+linkreference: student-j2-meeting-10
 ---
 
 ### Event details:
