@@ -42,4 +42,4 @@ Quiz will be on p.168 vocabulary (we didn't do this last week)
 
 NEXT CLASS:
 
-This coming class of the 27th will be held at DeLaraさんの家. ありがとうございます！
+This coming class of the 3rd will be held at DeLaraさんの家. ありがとうございます！
