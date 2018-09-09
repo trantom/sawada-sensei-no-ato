@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tenth J2 Meeting"
-date: 2018-08-17
+date: 2018-08-31
 linkreference: student-j2-meeting-10
 ---
 
@@ -37,4 +37,4 @@ Read some of your book and share with us some new words or neat usage of words/g
 
 ### NEXT CLASS:
 
-This coming class of the 17th will be held at DeLaraさんの家. ありがとうございます！
+This coming class of the 31st will be held at DeLaraさんの家. ありがとうございます！
