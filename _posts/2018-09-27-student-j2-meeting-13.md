@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thirteenth J2 Meeting"
-date: 2018-09-20
+date: 2018-09-27
 linkreference: student-j2-meeting-13
 ---
 
